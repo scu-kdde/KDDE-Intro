@@ -1,8 +1,8 @@
 # KDDE
-# Knowledge Discovery & Data Engineering Research Group
+## Knowledge Discovery & Data Engineering Research Group
 知识发现与数据工程研究组
 
-# School of Computer Science, Sichuan University, Chengdu, China
+## School of Computer Science, Sichuan University, Chengdu, China
 四川大学 计算机学院
 
 
