@@ -13,9 +13,9 @@ Bioinfo (Bioinformatics analysis)
 
 Rec (Recommendation system)
 
-HGA (Heterogeneous graph analysis, including dynamic network)
+HGA (Heterogeneous Graph Analysis, including dynamic network)
 
-CPM (Contrast pattern mining)
+CPM (Contrast Pattern Mining)
 
 ### LINK 
 
