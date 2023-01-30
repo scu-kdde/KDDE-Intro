@@ -5,7 +5,12 @@
 ## School of Computer Science, Sichuan University, Chengdu, China
 四川大学 计算机学院
 
-
+### Research interests span the following areas: 
+OAM (Outlying Aspect Mining, including outlier detection)
+Bioinfo (Bioinformatics analysis)
+Rec (Recommendation system)
+HGA (Heterogeneous graph analysis, including dynamic network)
+CPM (Contrast pattern mining)
 
 ### LINK 
 
